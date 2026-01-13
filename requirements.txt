@@ -1,2 +1,2 @@
-google-generativeai
-python-dotenv==1.2.1
+google-genai
+python-dotenv
